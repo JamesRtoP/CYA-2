@@ -2,7 +2,7 @@
 For CYA-2 I applied to positions at the Georgia Tech Research Institute. The positions were opened on April 15th or 17th and are do either May 1st or April 24th. The positions I applied for are CIPHER-IT Operations Intern Summer 2026 and General Cybersecurity Student Assistant - CIPHER - Summer 2026.
 
 ### Technical or professional decisions
-Since CIPHER seems to have a strong emphasis on hardware security, I included the class work and a project I completed that worked on hardware level systems.
+Since CIPHER seems to have a strong emphasis on hardware security, I included the class work and a project I completed that were closest to hardware.
 
 ### Contributions
 I worked independently on these applications. I did however recieve advise from an advisor to add a last updated section on my resume. In addiiton to cutting out some bloat, I implemented this change to improve my resume.
